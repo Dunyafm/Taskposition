@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.img {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+} 
+
+.css{
+    position: absolute;
+    width: 100vw;
+    background-color: blue;
+    color :white;
+    text-align: center;
+    top: 0;
+    left: 0;
+    font-size: 35px;
+ 
+}
+.sticky {
+position: absolute;
+color: white;
+top: 370px;
+left: 480px;
+font-size: 50px;
+
+}
